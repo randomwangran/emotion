@@ -1,0 +1,20 @@
+* Music Voyager (樂行者)
+* Haven (第二天堂)
+* No. 89757 (編號89757)
+* Cao Cao (曹操)
+* Westside (西界)
+* Sixology (JJ陸)
+* Hundred Days (100 天)
+* She Says (她說)
+* Lost N Found (學不會)
+* Stories Untold (因你而在)
+* Genesis (新地球)
+* From M.E. to Myself (和自己對话)
+* Message in a Bottle (伟大的渺小)
+* 其他
+** "进阶" (Resurgence）
+** "我們很好" (Better Days)
+** "SHOW THE WORLD"
+** "對的時間點" (The Right Time)
+- [[https://github.com/randomwangran/string][吉他]]
+** "Wonderland"
