@@ -4,6 +4,8 @@ ref: https://imgur.com/r/infj/gK24L3u
 * Sadness
 * Surprise
 * Joy
+** content
+*** pleased
 * Love
 * Fear
 * different point of view
